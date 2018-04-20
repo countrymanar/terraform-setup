@@ -4,7 +4,7 @@
 
 # Environment Requirements
 
-If you are following along with the workshop Terraform can be installed from install_terraform.sh.
+Terraform can be installed from install_terraform.sh.
 
 # Software Requirements
 
